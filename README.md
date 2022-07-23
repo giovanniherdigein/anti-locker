@@ -1,5 +1,5 @@
 # anti-locker
-# This prroject test several things
+# This project tests several things
 # firt is the event dispatching
 # the second is working with a store for global data management
 # the third is working with clid and parent components and the distribution of commands
