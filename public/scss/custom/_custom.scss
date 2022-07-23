@@ -1,0 +1,7 @@
+// CREATING A MIXIN TO SET BACKGROUND_COLOR
+@mixin cu-background {
+    background-color: rgb(171, 133, 50);
+}
+.costum-background{
+    @include cu-background
+}
